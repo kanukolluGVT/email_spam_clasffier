@@ -9,7 +9,7 @@
 7. Calculate metrics
 8. conclusion and steps to increase performance
 
-9. conclusion:
+conclusion:
 Steps for Improving Model Performance:
 
 Enhanced Word Embeddings:
